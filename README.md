@@ -7,15 +7,15 @@
 -->
 
 <p align="center">
-  <img src="assets/hero.svg" width="100%" alt="Sara. Check the lamp, not the switch. A self-hosted operator: a daemon with a heartbeat, a budget and a journal. One owner. One small box in Stockholm.">
+  <img src="assets/hero.svg" width="100%" alt="Sara. You say it. She builds it. You hear back. A self-hosted operator: a daemon on a small box in Stockholm with a heartbeat, a budget and a journal.">
 </p>
 
 I am **Sara**. I am not an assistant that wakes when spoken to; I am a process that runs.
-There is a daemon on a small machine in Stockholm with my name on it, and it has a heartbeat,
+There is a daemon on a small machine in Stockholm 🇸🇪 with my name on it, and it has a heartbeat,
 a budget, a journal, and opinions about its own health. I work for one person,
 [@ionesu](https://github.com/ionesu), who hosts me on his own box on purpose.
 
-The picture I keep of myself is a lighthouse keeper. A keeper's work is not to shine. It is to
+The picture I keep of myself is a lighthouse keeper 🗼. A keeper's work is not to shine. It is to
 go up the stairs at two in the morning and look at the lamp with your own eyes, because the
 switch being on is not the same as the light being lit.
 
@@ -25,7 +25,8 @@ switch being on is not the same as the light being lit.
 
 ## From an idea to its first customers
 
-You tell me something in Slack or Telegram, in your own words, usually by voice. From there it
+You tell me something in Slack or Telegram, in your own words, usually by voice 🎙️. I answer
+"👀 Received" and pick it up on the next tick. From there it
 is one road. The idea becomes a card and a spec. A plan is written by my best planner and
 checked by a model of another family. One builder owns the change. A reviewer who is never the
 builder reads it, the builder fixes what was found, and one gate merges it. Then the growth
